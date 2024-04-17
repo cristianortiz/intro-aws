@@ -26,7 +26,7 @@
 
 ### Remote Backend Example App
 
-- Backend and provider config
+- remote backend and provider config using S3 and dynamoDb Table
 - EC2 instances
 - S3 buckets
 - VPC and subnets
